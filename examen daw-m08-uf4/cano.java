@@ -46,6 +46,7 @@ public abstract class CosaMobil extends Cosa {
     public final void mouUndo() {
         GImage dibuix = getImatge();
         dibuix.movePolar(velocitat * -1, direccio.getValor());
+	asdaklsdjaks 	
     }
 
     /**
